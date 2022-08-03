@@ -1,0 +1,40 @@
+body{
+    background-color:bisque;
+    font-size:20px;
+    flex-flow:row;
+
+  }
+  .SS{
+    border:3px solid beige;
+    
+    width:700px;
+    height:100%;
+    margin-left:15px;
+    padding-left: 10px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    
+    box-shadow: 7px 7px beige;
+    float:left;
+  }
+  
+  .SS p{ 
+    font-size: 25px;
+    
+
+  }
+  
+  footer{
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 60px;
+     
+  }
+  footer:hover{
+    opacity: 1.0;
+    color: blue;
+  }
+  footer a:hover {
+    color: green;
+}
